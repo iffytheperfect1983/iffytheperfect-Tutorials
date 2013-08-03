@@ -5,7 +5,7 @@
 //  Created by iffytheperfect on 9/22/12.
 //  Copyright (c) 2012 iffytheperfect. All rights reserved.
 //
-// modified version 1.xxx
+// modified version 1.234
 
 #import "CustomCell.h"
 
